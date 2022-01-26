@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jari & Taika</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="tyyli_1.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Scada&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="banner">
+                <img src="images/site-header.png" alt="Jari ja Taika yhtye" class="header">
+            </div>
+            <div class="margin">
+                <div class="toggle-btn" onclick="myFunction();">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <nav id="nav">
+                  <ul>
+                    <li><a href="index.html">Etusivu</a></li>
+                    <li><a href="info.html">Lisätiedot</a></li>
+                    <li><a href="history.html">Historia</a></li>
+                    <li><a href="contact.html">Yhteystiedot</a></li>
+                  </ul>
+                </nav>
+              </div>
+            <div class="content">
+                <div class="sidebar">
+                    <div class="socials">
+                        <h3>Voit ottaa meihin yhteyttä Facebookin tai Twitterin kautta:</h3>
+                        <a target="https://www.facebook.com/JariTaika-191704827574713/" href="https://www.facebook.com/JariTaika-191704827574713/">
+                        <img src="images/facebook.png" alt="Jari ja Taika yhtyeen jäsenet"></a>
+                    <a target="https://www.twitter.com" href="https://twitter.com">
+                    <img src="images/twitter.png" alt="twitter logo"></a>
+                    </div>
+                </div>
+                <div class="first">
+                    <h3>Yhteydenottolomake</h3>
+                    <form action="/action_page.php">
+                        <label for="fname">Etunimi</label>
+                        <input type="text" id="fname" name="firstname" placeholder="Etunimesi..">
+                    
+                        <label for="lname">Sukunimi</label>
+                        <input type="text" id="lname" name="lastname" placeholder="Sukunimesi..">
+
+                        <label for="email">Sähköpostiosoite</label>
+                        <input type="text" id="email" name="email" placeholder="Sähköpostiosoitteesi..">
+
+                        <label for="subject">Aihe</label>
+                        <textarea id="subject" name="subject" placeholder="Kirjoita asiasi.." style="height:200px"></textarea>
+                    
+                        <input type="submit" value="Lähetä">
+                      </form>
+                </div>
+                <div class="second"></div>
+            </div>
+            
+        </div>
+        <script src="skripti.js"></script>
+    </body>
+</html>
