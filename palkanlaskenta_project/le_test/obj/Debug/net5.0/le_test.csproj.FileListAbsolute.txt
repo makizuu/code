@@ -1,0 +1,16 @@
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\le_test.exe
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\le_test.deps.json
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\le_test.runtimeconfig.json
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\le_test.runtimeconfig.dev.json
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\le_test.dll
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\ref\le_test.dll
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\bin\Debug\net5.0\le_test.pdb
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.csproj.AssemblyReference.cache
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.AssemblyInfoInputs.cache
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.AssemblyInfo.cs
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.csproj.CoreCompileInputs.cache
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.dll
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\ref\le_test.dll
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.pdb
+C:\OneDrive\Tiedostot\Ohjelmointi\Ohjelmistokehitys\Dinero\project-dinero\le_test\obj\Debug\net5.0\le_test.genruntimeconfig.cache
