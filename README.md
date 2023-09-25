@@ -1,1 +1,1 @@
-All of my coding projects are presented here
+Some random coding projects are presented here
