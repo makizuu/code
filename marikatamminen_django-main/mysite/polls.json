@@ -1,0 +1,89 @@
+[
+{
+    "model": "polls.question",
+    "pk": 1,
+    "fields": {
+        "question_text": "What's up?",
+        "pub_date": "2022-02-10T19:31:38Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 2,
+    "fields": {
+        "question_text": "What is the best pizza?",
+        "pub_date": "2022-02-10T19:55:48Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 3,
+    "fields": {
+        "question_text": "Who is more funny?",
+        "pub_date": "2022-02-10T20:26:45Z"
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 1,
+    "fields": {
+        "question": 1,
+        "choice_text": "Not much",
+        "votes": 3
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 2,
+    "fields": {
+        "question": 1,
+        "choice_text": "The sky",
+        "votes": 1
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 4,
+    "fields": {
+        "question": 2,
+        "choice_text": "Pepperoni",
+        "votes": 1
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 5,
+    "fields": {
+        "question": 2,
+        "choice_text": "Salami",
+        "votes": 0
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 6,
+    "fields": {
+        "question": 2,
+        "choice_text": "Cheese",
+        "votes": 1
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 7,
+    "fields": {
+        "question": 3,
+        "choice_text": "Donald Duck",
+        "votes": 7
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 8,
+    "fields": {
+        "question": 3,
+        "choice_text": "Mickey Mouse",
+        "votes": 3
+    }
+}
+]
