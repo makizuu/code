@@ -1,0 +1,23 @@
+Vim, Emacs, Micro
+https://github.com/hamk-linux-21x6/marikatamminen_assignments
+Marika Tamminen
+
+1. learning curve (how easy to learn)
+Micro was the easiest to learn, then Emacs which took a bit more practice to use and then Vim which was the hardest to learn
+
+2. user interface (how easy to do tasks you need)
+I think after putting some time into learning to use the editors, all of them were easy enough to get the tasks done that needed to be done. It was just a bit more time consuming with some of them.
+
+3. features
+I liked that Micro's features were the same for save a file, copy and paste as were used to with windows. Vim had some cool features and I especially liked the efficient way of deleting rows in a file. My favorite feature on Emacs was how easy splitting the screen and changing buffers was. On Micro and Emacs I liked that the mode is already on type mode and you don't have to switch modes to type.
+
+4. speed
+Micro had nothing to compare with Emacs and Vim. It was deffinately the slowest to use. Emacs at first was the fastest to use but after practicing a bit more Vim I started to be faster on it's shorcut commands and features. So I would say Vim is the fastest editor to type in when you master it.
+
+5. problems / issues with the editor
+With Emacs there was a lot of error codes at the beginning that needed to be worked out. Also everytime I would open a new Emacs file it would split the window and give an error code at the bottom. With Micro I had a lot of issues with closing it because at fist the ctrl-q didn't work. One annoying thing about Vim was that it made a lot of warning sounds as I was using it. I think it wouldn't do that though if you pushed the right buttons all the time.
+
+6. describe ideal use case for the particular editor
+Micro is perfect for a beginner. Very easy to learn and not a lot of difficult features. Ideal use is that you don't write that often and just want something easy and fast to learn. Vim is perfect for fast typing and for a pro typer. Ideal use is that you write many hours a day and need a lot of shortcuts. Emacs is good for beginners because it's easy to learn but it also has some complex features so that a pro can benefit from it also. Ideal usage is basically for anything.
+
+My personal winner was Vim. I plan to use Emacs for quick editing and Vim for longer periods of time.

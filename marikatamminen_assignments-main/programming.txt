@@ -1,0 +1,15 @@
+Marika Tamminen
+https://github.com/hamk-linux-21x6/marikatamminen_assignments
+
+Which programming tools you liked the best?
+I found that python script was the easiest the learn and understand.
+Which programming tools you plan to use in future?
+Bash scripts and deffinately Python scripts
+Describe optimal use for Bash scripts
+Small program like a program for git commands would be perfect
+Describe optimal use for Python scripts
+Basically anything that you want to write in a more readable language. You can either use it for smaller programs or even bigger more complex programs.
+Describe optimal use for C programming language
+I didn't find it handy at all but I guess it would be good for bigger more complex programs like games or applications which require calculating.
+Why makefiles are needed?
+It helps to build an executable and makes codes more concise and clear to read and debug.
